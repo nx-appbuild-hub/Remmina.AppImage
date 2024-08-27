@@ -8,3 +8,5 @@ Error adding build from file. Error: Failed to open file “/usr/share/remmina/u
 
 (org.remmina.Remmina:168522): GLib-GObject-CRITICAL **: 01:35:41.865: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
 Error adding build from file. Error: Failed to open file “/usr/share/remmina/ui/remmina_preferences.glade”: No such file or directory
+
+![example workflow](https://github.com/nx-appbuild-hub/Remmina.AppImage//actions/workflows/makefile.yml/badge.svg)
